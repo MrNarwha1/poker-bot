@@ -1,0 +1,50 @@
+{
+  "roi": [
+    100,
+    100,
+    800,
+    450
+  ],
+  "hero_boxes": [
+    {
+      "rank_box": [
+        337,
+        325,
+        17,
+        18
+      ],
+      "suit_box": [
+        335,
+        339,
+        22,
+        15
+      ]
+    },
+    {
+      "rank_box": [
+        400,
+        325,
+        15,
+        16
+      ],
+      "suit_box": [
+        400,
+        341,
+        17,
+        15
+      ]
+    }
+  ],
+  "board_boxes": [],
+  "pot_box": [
+    328,
+    25,
+    136,
+    35
+  ],
+  "template_dir": "C:/Users/Joelb/OneDrive/Desktop/poker/real code stuff/templates",
+  "tesseract_exe": "C:/Program Files/Tesseract-OCR/tesseract.exe",
+  "rank_psm": 7,
+  "suit_min_score": 0.3,
+  "auto_debug_on_fail": true
+}
